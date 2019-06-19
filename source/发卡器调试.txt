@@ -20,3 +20,5 @@
 初始化IC卡：aa 1c 1d 00 00 05 14 2e 84 10 92 88 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff e2
 
 初始化CPU卡：aa 2e 1d 00 00 05 15 05 00 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 04 8d 0a 5c ef d0
+
+
